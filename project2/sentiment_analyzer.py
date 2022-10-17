@@ -1,3 +1,4 @@
+# REFERENCES: https://www.youtube.com/watch?v=MqIw68fEq1k&t=1s
 import tweepy
 from main import authenticate
 from textblob import TextBlob
