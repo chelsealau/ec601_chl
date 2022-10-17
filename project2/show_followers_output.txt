@@ -1,0 +1,49 @@
+C:\Users\chl21\PycharmProjects\projec2\venv\Scripts\python.exe C:\Users\chl21\PycharmProjects\projec2\main.py 
+ENTER USERNAME OF TWITTER USER TO SEARCH: 
+OprahDaily
+AUTHENTICATION WAS SUCCESSFUL
+Number of Followers: 548311
+Number of Statuses: 67586
+FOLLOWERS INFORMATION: 
+Name: Muthama kioko
+Username: MuthamaJr
+Name: April Nenadal
+Username: AprilNenadal
+Name: Bruno Andrade
+Username: BrunoELT
+Name: WIndy
+Username: WIndy8675349
+Name: JoAnn Doll Roth
+Username: JoAnnDollRoth
+Name: Marcella Charise
+Username: MarcellaCharise
+Name: 🇺🇦Evan Kirstel #B2B #TechFluencer
+Username: EvanKirstel
+Name: Creative Beauty
+Username: Creativ61045729
+Name: Kenth Lundqvist
+Username: LundqvistKenth
+Name: Joel Aluoch
+Username: aluochjotieno
+Name: WillingSon Titi
+Username: WillingSon67
+Name: .
+Username: biswaje17276702
+Name: Bathandwa Asamnkele
+Username: AsamkeleBathan1
+Name: Milagros Rosado Elia, APRN, ANP-BC (she/her/ella)
+Username: Milagros1Elia
+Name: Cheryl Peterson
+Username: CDPete123
+Name: oprah Winfrey Fans 🛑
+Username: oprahWinfreyFa7
+Name: Bella Blu 💋
+Username: Bella_729
+Name: Wend Dee
+Username: WendDee24
+Name: Bazzie💙🌈💕NHS #Compassion#Kindness💙🌈💕
+Username: bazzie1967
+Name: Mathabelo Moshesha
+Username: MathabeloMoshe2
+
+Process finished with exit code 0
